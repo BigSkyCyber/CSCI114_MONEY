@@ -61,9 +61,19 @@ namespace MoneyLib
         }
 
         // IComparable interface implementation
-        public int CompareTo(object obj)
+        public int CompareTo(Money other){
+            if(Equals(other)) return 0;
+            return Value.CompareTo(other.Value);
+        }
+
+        public int CompareTo(object other)
         {
-            return _value.CompareTo(obj);
+            if(!(other is Money))
+            {
+                throw new InvalidOperationException("CompareTo: Not a Money object");
+            }
+
+            return CompareTo((Money) other);
         }
     }
 }
