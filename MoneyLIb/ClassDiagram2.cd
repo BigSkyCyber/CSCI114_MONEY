@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MoneyLib.BankNote" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BankNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.CirculatingMoney" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>CirculatingMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Coin" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAIAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Currency" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCIAIAAAgBAAAAAAEFAAAAQIAAIAAABQBAAAAAEgACI=</HashCode>
+      <FileName>Currency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Money" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAACAAAAQAIAAAAAAACAAAAAAAgAAgAAAAAAA=</HashCode>
+      <FileName>Money.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MoneyLib.DollarBill" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.TwoDollarBill" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.FiveDollarBill" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.TenDollarBill" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.TwentyDollarBill" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Penny" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Nickel" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Dime" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Quarter" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.SilverDollar" Collapsed="true">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
