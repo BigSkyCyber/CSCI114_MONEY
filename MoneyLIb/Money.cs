@@ -71,7 +71,8 @@ namespace MoneyLib
         {
             if (!(other is Money))
                 throw new InvalidOperationException("CompareTo: Not Money");
-            return CompareTo((Money)other);
+            int result = CompareTo((Money)other);
+            return result;
         }
     }
 }
