@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="Namespace: MoneyLib&#xD;&#xA;&#xD;&#xA;version 1.1  last updated 12/5/17&#xD;&#xA;&#xD;&#xA;assemblies:&#xD;&#xA;                 moneylib.dll">
+    <Position X="0.737" Y="0.5" Height="1.115" Width="2.509" />
+  </Comment>
+  <Class Name="MoneyLib.Currency">
+    <Position X="13.25" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gCIAIAAAgBAAAAAAEFAAAAQIAAIAAABQBAAAAAEgACI=</HashCode>
+      <FileName>Currency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Money">
+    <Position X="9" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAACAAAAQAIAAAAAAACAAAAAAAgAAgAAAAAAA=</HashCode>
+      <FileName>Money.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Currency" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MoneyLib.CirculatingMoney">
+    <Position X="3.75" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>CirculatingMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Coin">
+    <Position X="8.5" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAIAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.BankNote">
+    <Position X="2" Y="4" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BankNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.DollarBill">
+    <Position X="1.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.TwoDollarBill">
+    <Position X="3.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.FiveDollarBill">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.TenDollarBill">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.TwentyDollarBill">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USBankNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Penny">
+    <Position X="7.25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Nickel">
+    <Position X="9.25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Dime">
+    <Position X="11.25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.Quarter">
+    <Position X="8.25" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyLib.SilverDollar">
+    <Position X="10.25" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>USCoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
